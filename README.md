@@ -19,6 +19,19 @@
 
 [Windows 32bit (For RAM ~3GB)](https://hye0ngit.github.io/unity2048_32_v1.zip)
 
+## Islands Demo
+**All copyrights belong to Unity Technologies ApS**
+
+### Download
+
+**Windows Version Uses DirectX 9 API**
+
+[Windows Executable (EXE)](https://hye0ngit.github.io/Islands/IslandsWin.zip)
+
+[HTML Application (HTA, **Requires Unity Web Player 2.x**)](https://hye0ngit.github.io/Islands/IslandsWeb.zip)
+
+[Unity Web Player 2.6.1](http://webplayer.unity3d.com/download_webplayer-2.x/UnityWebPlayer.exe)
+
 ## ETAbrowser
 
 ### Unofficial Web Apps
